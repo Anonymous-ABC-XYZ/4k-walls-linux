@@ -6,4 +6,6 @@ You can download the repository by using this command:
   - git clone https://github.com/Anonymous-ABC-XYZ/4k-walls-linux.git
 
 ## Useful tips
-On KDE, to get the best results you should set your wallpaper to blurred. Also, use the run comman
+On KDE, to get the best results you should set your wallpaper to blurred. Also, use the run command to automate this.
+
+Enjoy!
